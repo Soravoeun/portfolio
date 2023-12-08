@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-key */
 import "../App.css";
-import Item from "./Skill-list/Item.jsx";
+import Item from "./skill-list/Item.jsx";
 
 function SkillList() {
   const items = [
